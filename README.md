@@ -5,3 +5,5 @@ by Jianyang Wang, Chun-Yen Liu, Thomas P Senftle, Jie Zhu, Guanghui Zhang, Xinwe
 ACS Catal. 2020, 10, 5, 3264–3273
 
 https://doi.org/10.1021/acscatal.9b04239
+
+Data gathered and prepared by Chun-Yen Liu, PhD Candidate, Chemical Engineering, Rice University, Houston, TX, 77005
